@@ -1,6 +1,6 @@
 function Home() {
     return (
-        <h1>Vá trabalhar!</h1>
+        <h1 className={Styles.caixa}>Vá trabalhar!</h1>
     )
 }
 
